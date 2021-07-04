@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+
+
+h4{
+    text-align: center;
+}
+.flexible{
+    display: flex;
+}
+.box{
+    box-shadow:20px 20px 30px rgb(134, 240, 240);
+    width: 30%;
+    padding-left: 10px;
+    padding-right:10px;
+    margin-left:30px;
+    margin-right:30px;
+    text-align: justify;
+    border-image: linear-gradient( rgb(23, 23, 238), rgb(93, 191, 230));
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-radius: 10px;
+    
+}
